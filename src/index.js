@@ -10,3 +10,6 @@ async function main() {
 }
 
 main();
+
+
+// Current video: QR-code architecture
