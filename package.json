@@ -1,7 +1,7 @@
 {
   "name": "dio-mobile-meu-tudo--projeto-qrcode",
   "version": "1.0.0",
-  "description": "",
+  "description": "kit de utilidades para e-commerces",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
