@@ -6,4 +6,6 @@ const mainPrompt = [
         message: "Escolha apenas 1 ou 2",
         required: true
     }
-]
+];
+
+export default mainPrompt;
