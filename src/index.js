@@ -14,4 +14,4 @@ async function main() {
 main();
 
 
-// Current video: QR-code architecture
+// Current video: Password Generator
