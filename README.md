@@ -10,3 +10,5 @@ nvm install 20
  ```
  nvm use 20
  ```
+
+[Installation of NVM](https://blog.formacao.dev/nvm-instalacao-e-utilizacao/) (in portuguese)
