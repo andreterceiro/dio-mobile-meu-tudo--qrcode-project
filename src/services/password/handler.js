@@ -1,4 +1,4 @@
-import { getPermittedCharacters } from "./permitted-characters.js";
+import { getPermittedCharacters } from "./util/permitted-characters.js";
 
 async function handler() {
     let characters = await getPermittedCharacters();
