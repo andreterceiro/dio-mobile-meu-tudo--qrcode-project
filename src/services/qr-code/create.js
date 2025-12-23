@@ -1,5 +1,5 @@
 import prompt from 'prompt';
-import promptQRCode from '../../prompts/prompt-qrcode.js';
+import promptQRCode from '../../prompts-schema/prompt-qrcode.js';
 import handler from './handler.js';
 
 async function createQRCode() {
